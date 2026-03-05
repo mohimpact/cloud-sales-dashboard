@@ -4,14 +4,11 @@
 The objective of this project was to build an end-to-end data pipeline to analyze the annual sales performance of a Nigerian E-Commerce store for 2023 and 2024. By integrating Python, AWS cloud storage, and Power BI, the dashboard provides actionable insights into customer behavior, regional sales distribution, and revenue trends to drive growth in 2025.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](das# Cloud Sales Analytics Dashboard (Nigeria E-Commerce)
-
-## 🎯 Project Objective
-The objective of this project was to build an end-to-end data pipeline to analyze the annual sales performance of a Nigerian E-Commerce store for 2023 and 2024. By integrating Python, AWS cloud storage, and Power BI, the dashboard provides actionable insights into customer behavior, regional sales distribution, and revenue trends to drive growth in 2025.
-
-## 📊 Dashboard Preview
-![Dashboard Screenshot](https://github.com/mohimpact/cloud-sales-dashboard/blob/main/dashboards/screenshots/executive_summary.png?raw=true)
-
+<p align="center">
+  <a href="https://github.com/mohimpact/cloud-sales-dashboard/blob/main/dashboards/screenshots/executive_summary.png">
+    <img src="https://github.com/mohimpact/cloud-sales-dashboard/blob/main/dashboards/screenshots/executive_summary.png?raw=true" alt="Cloud Sales Dashboard" width="800">
+  </a>
+</p>
 ## 🛠️ Tech Stack & Tools
 * **Language:** Python 3.11 (Pandas for cleaning, Boto3 for AWS integration)
 * **Cloud:** AWS S3 (Data Lake storage)
