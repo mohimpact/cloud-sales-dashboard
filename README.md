@@ -3,6 +3,8 @@
 ## 🎯 Project Objective
 The objective of this project was to build an end-to-end data pipeline to analyze the annual sales performance of a Nigerian E-Commerce store for 2023 and 2024. By integrating Python, AWS cloud storage, and Power BI, the dashboard provides actionable insights into customer behavior, regional sales distribution, and revenue trends to drive growth in 2025.
 
+## Dashboard Demo
+📺 [Watch Interactive Demo](https://www.loom.com/share/692a31c657d840feb1d5baa250831d9f)
 ## 📊 Dashboard Preview
 - <a href = "https://github.com/mohimpact/cloud-sales-dashboard/blob/main/executive_summary.png">Veiw Dashboard</a>
 
